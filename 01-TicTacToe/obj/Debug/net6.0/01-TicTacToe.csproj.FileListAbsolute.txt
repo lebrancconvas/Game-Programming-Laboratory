@@ -1,0 +1,15 @@
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/bin/Debug/net6.0/01-TicTacToe
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/bin/Debug/net6.0/01-TicTacToe.deps.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/bin/Debug/net6.0/01-TicTacToe.runtimeconfig.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/bin/Debug/net6.0/01-TicTacToe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/bin/Debug/net6.0/ref/01-TicTacToe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/bin/Debug/net6.0/01-TicTacToe.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.csproj.AssemblyReference.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.AssemblyInfoInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.AssemblyInfo.cs
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.csproj.CoreCompileInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/ref/01-TicTacToe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/Game-Programming/01-TicTacToe/obj/Debug/net6.0/01-TicTacToe.genruntimeconfig.cache
